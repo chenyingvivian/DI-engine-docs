@@ -6,7 +6,8 @@ Atari
 
 Atari是最经典最常用的离散动作空间强化学习环境，常作为离散动作空间强化学习算法的基准测试环境。它是一个由 57 个子环境构成的集合，不同的子环境对应的游戏类型差别很大，常用的子环境有 Pong，SpaceInvaders，QBert，Enduro，Breakout，MontezumaRevenge 等等，下图所示为其中的 SpaceInvaders 游戏。
 
-.. image:: ./images/atari.gif
+.. image:: 
+   images/atari.gif
    :align: center
    :scale: 70%
 
